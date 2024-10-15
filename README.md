@@ -34,6 +34,6 @@
 
 ```bash
 git clone https://github.com/polings/SmartCalc.git
-cd SmartCalc
+cd SmartCalc/src
 make install
 ```
