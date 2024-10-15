@@ -30,7 +30,7 @@
 
 ## Установка
 
-Дла установки необходимы Qt версии 6, qmake версии 6, make и GCC компилятор.
+Дла установки необходимы Qt версии 6, cmake, make и GCC компилятор.
 
 ```bash
 git clone https://github.com/polings/SmartCalc.git
